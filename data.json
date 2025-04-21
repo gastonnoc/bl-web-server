@@ -1,0 +1,805 @@
+{
+  "title": "LogiSmart ",
+  "subtitle": "STREAMING STUDIOS",
+  "playerData": [
+    {
+      "id": 1,
+      "name": "asd",
+      "stats": {
+        "08:00": "BJ1",
+        "08:30": "AB",
+        "09:00": "ST01",
+        "09:30": "R2"
+      }
+    },
+    {
+      "id": 2,
+      "name": "adf",
+      "stats": {
+        "08:00": "R1",
+        "08:30": "TP",
+        "09:00": "ST03",
+        "09:30": "AB"
+      }
+    },
+    {
+      "id": 3,
+      "name": "ghj",
+      "stats": {
+        "08:00": "AB",
+        "08:30": "BJ3",
+        "09:00": "AB",
+        "09:30": "R1"
+      }
+    },
+    {
+      "id": 4,
+      "name": "jkl",
+      "stats": {
+        "08:00": "ST01",
+        "08:30": "BJ9",
+        "09:00": "TP",
+        "09:30": "ST05"
+      }
+    },
+    {
+      "id": 5,
+      "name": "jh",
+      "stats": {
+        "08:00": "BJ4",
+        "08:30": "ST04",
+        "09:00": "BJ5",
+        "09:30": "AB"
+      }
+    },
+    {
+      "id": 6,
+      "name": "hjk",
+      "stats": {
+        "08:00": "TP",
+        "08:30": "BJ2",
+        "09:00": "ST02",
+        "09:30": "R1"
+      }
+    },
+    {
+      "id": 7,
+      "name": "jkl",
+      "stats": {
+        "08:00": "AB",
+        "08:30": "ST03",
+        "09:00": "TP",
+        "09:30": "B1"
+      }
+    },
+    {
+      "id": 8,
+      "name": "ghj",
+      "stats": {
+        "08:00": "BJ2",
+        "08:30": "BJ6",
+        "09:00": "ST01",
+        "09:30": "R2"
+      }
+    },
+    {
+      "id": 9,
+      "name": "tyu",
+      "stats": {
+        "08:00": "AB",
+        "08:30": "TP",
+        "09:00": "BJ4",
+        "09:30": "AB"
+      }
+    },
+    {
+      "id": 10,
+      "name": "tyu",
+      "stats": {
+        "08:00": "ST05",
+        "08:30": "AB",
+        "09:00": "ST06",
+        "09:30": "TP"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Lautaro Torres",
+      "stats": {
+        "08:00": "R1",
+        "08:30": "R2",
+        "09:00": "ST10",
+        "09:30": "TP"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Isabella Medina",
+      "stats": {
+        "08:00": "TP",
+        "08:30": "R1",
+        "09:00": "AB",
+        "09:30": "ST02"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Joaquín Rivas",
+      "stats": {
+        "08:00": "BJ12",
+        "08:30": "RRR",
+        "09:00": "TP",
+        "09:30": "ST12"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Catalina Vargas",
+      "stats": {
+        "08:00": "BJ11",
+        "08:30": "BJ6",
+        "09:00": "BJ10",
+        "09:30": "ST10"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Simón Molina",
+      "stats": {
+        "08:00": "AB",
+        "08:30": "BJ6",
+        "09:00": "R1",
+        "09:30": "ST10"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Renata Díaz",
+      "stats": {
+        "08:00": "B1",
+        "08:30": "RRR",
+        "09:00": "BJ1",
+        "09:30": "BJ11"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Dylan Navarro",
+      "stats": {
+        "08:00": "R1",
+        "08:30": "ST01",
+        "09:00": "BJ1",
+        "09:30": "BJ1"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Mía Ortega",
+      "stats": {
+        "08:00": "B1",
+        "08:30": "ST04",
+        "09:00": "BJ7",
+        "09:30": "BJ15"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Franco Salinas",
+      "stats": {
+        "08:00": "ST12",
+        "08:30": "BJ1",
+        "09:00": "BJ14",
+        "09:30": "ST10"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Luciana Aguirre",
+      "stats": {
+        "08:00": "AB",
+        "08:30": "BJ7",
+        "09:00": "BJ7",
+        "09:30": "TP"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Tomás Carrizo",
+      "stats": {
+        "08:00": "R3",
+        "08:30": "ST06",
+        "09:00": "BJ11",
+        "09:30": "BJ3"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Paula Ibáñez",
+      "stats": {
+        "08:00": "BJ8",
+        "08:30": "BJ4",
+        "09:00": "ST04",
+        "09:30": "BJ2"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Bruno Paredes",
+      "stats": {
+        "08:00": "ST05",
+        "08:30": "ST03",
+        "09:00": "ST07",
+        "09:30": "BJ6"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Agustina Rojas",
+      "stats": {
+        "08:00": "BJ6",
+        "08:30": "ST01",
+        "09:00": "BJ7",
+        "09:30": "BJ3"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Ciro Campos",
+      "stats": {
+        "08:00": "BJ5",
+        "08:30": "ST08",
+        "09:00": "ST10",
+        "09:30": "BJ8"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Milagros Vega",
+      "stats": {
+        "08:00": "ST05",
+        "08:30": "ST04",
+        "09:00": "ST01",
+        "09:30": "BJ3"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Iván Figueroa",
+      "stats": {
+        "08:00": "RRR",
+        "08:30": "TP",
+        "09:00": "BJ5",
+        "09:30": "BJ7"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Josefina Cabrera",
+      "stats": {
+        "08:00": "ST07",
+        "08:30": "R3",
+        "09:00": "BJ8",
+        "09:30": "TP"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Bautista Duarte",
+      "stats": {
+        "08:00": "BJ3",
+        "08:30": "ST07",
+        "09:00": "RRR",
+        "09:30": "BJ4"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Antonia Palacios",
+      "stats": {
+        "08:00": "BJ14",
+        "08:30": "ST01",
+        "09:00": "BJ13",
+        "09:30": "BJ11"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Felipe Godoy",
+      "stats": {
+        "08:00": "BJ3",
+        "08:30": "ST08",
+        "09:00": "ST09",
+        "09:30": "ST04"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Abril Ayala",
+      "stats": {
+        "08:00": "BJ6",
+        "08:30": "ST05",
+        "09:00": "BJ12",
+        "09:30": "R3"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Gael Roldán",
+      "stats": {
+        "08:00": "ST12",
+        "08:30": "ST04",
+        "09:00": "R1",
+        "09:30": "BJ15"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Bianca Toledo",
+      "stats": {
+        "08:00": "BJ6",
+        "08:30": "BJ15",
+        "09:00": "BJ6",
+        "09:30": "BJ15"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Ian Bustos",
+      "stats": {
+        "08:00": "RRR",
+        "08:30": "BJ11",
+        "09:00": "ST06",
+        "09:30": "ST01"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Lara Sosa",
+      "stats": {
+        "08:00": "ST12",
+        "08:30": "ST05",
+        "09:00": "R2",
+        "09:30": "ST11"
+      }
+    },
+    {
+      "id": 37,
+      "name": "Ezra Benítez",
+      "stats": {
+        "08:00": "BJ11",
+        "08:30": "ST05",
+        "09:00": "R3",
+        "09:30": "ST05"
+      }
+    },
+    {
+      "id": 38,
+      "name": "Juana Giménez",
+      "stats": {
+        "08:00": "ST09",
+        "08:30": "ST08",
+        "09:00": "BJ3",
+        "09:30": "BJ9"
+      }
+    },
+    {
+      "id": 39,
+      "name": "Kevin Villalba",
+      "stats": {
+        "08:00": "BJ4",
+        "08:30": "BJ9",
+        "09:00": "ST01",
+        "09:30": "R1"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Ariadna Ruiz",
+      "stats": {
+        "08:00": "BJ12",
+        "08:30": "ST04",
+        "09:00": "BJ2",
+        "09:30": "BJ1"
+      }
+    },
+    {
+      "id": 41,
+      "name": "Axel Cardozo",
+      "stats": {
+        "08:00": "BJ14",
+        "08:30": "ST11",
+        "09:00": "ST08",
+        "09:30": "BJ5"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Sol Farías",
+      "stats": {
+        "08:00": "ST03",
+        "08:30": "BJ6",
+        "09:00": "ST05",
+        "09:30": "ST07"
+      }
+    },
+    {
+      "id": 43,
+      "name": "Andrés Núñez",
+      "stats": {
+        "08:00": "BJ3",
+        "08:30": "BJ3",
+        "09:00": "ST06",
+        "09:30": "BJ9"
+      }
+    },
+    {
+      "id": 44,
+      "name": "Malena Ponce",
+      "stats": {
+        "08:00": "BJ9",
+        "08:30": "BJ11",
+        "09:00": "ST01",
+        "09:30": "R3"
+      }
+    },
+    {
+      "id": 45,
+      "name": "Samuel Acosta",
+      "stats": {
+        "08:00": "ST01",
+        "08:30": "RRR",
+        "09:00": "R2",
+        "09:30": "BJ4"
+      }
+    },
+    {
+      "id": 46,
+      "name": "Florencia Oliva",
+      "stats": {
+        "08:00": "BJ8",
+        "08:30": "R1",
+        "09:00": "BJ12",
+        "09:30": "ST05"
+      }
+    },
+    {
+      "id": 47,
+      "name": "Alan Ledesma",
+      "stats": {
+        "08:00": "ST07",
+        "08:30": "ST03",
+        "09:00": "ST07",
+        "09:30": "BJ13"
+      }
+    },
+    {
+      "id": 48,
+      "name": "Nina Bravo",
+      "stats": {
+        "08:00": "BJ12",
+        "08:30": "BJ10",
+        "09:00": "ST11",
+        "09:30": "ST03"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Dante Márquez",
+      "stats": {
+        "08:00": "BJ7",
+        "08:30": "BJ9",
+        "09:00": "ST12",
+        "09:30": "BJ7"
+      }
+    },
+    {
+      "id": 50,
+      "name": "Ailén Muñoz",
+      "stats": {
+        "08:00": "BJ2",
+        "08:30": "ST04",
+        "09:00": "ST01",
+        "09:30": "BJ13"
+      }
+    },
+    {
+      "id": 51,
+      "name": "Elías Castaño",
+      "stats": {
+        "08:00": "R1",
+        "08:30": "ST01",
+        "09:00": "R1",
+        "09:30": "ST04"
+      }
+    },
+    {
+      "id": 52,
+      "name": "Mila Aguero",
+      "stats": {
+        "08:00": "ST11",
+        "08:30": "R3",
+        "09:00": "BJ5",
+        "09:30": "AB"
+      }
+    },
+    {
+      "id": 53,
+      "name": "Valentino Barrios",
+      "stats": {
+        "08:00": "ST04",
+        "08:30": "ST10",
+        "09:00": "R3",
+        "09:30": "TP"
+      }
+    },
+    {
+      "id": 54,
+      "name": "Amanda Peralta",
+      "stats": {
+        "08:00": "R3",
+        "08:30": "ST04",
+        "09:00": "BJ14",
+        "09:30": "ST03"
+      }
+    },
+    {
+      "id": 55,
+      "name": "Aaron Quinteros",
+      "stats": {
+        "08:00": "ST04",
+        "08:30": "ST05",
+        "09:00": "BJ2",
+        "09:30": "BJ8"
+      }
+    },
+    {
+      "id": 56,
+      "name": "Aitana Leiva",
+      "stats": {
+        "08:00": "ST12",
+        "08:30": "ST07",
+        "09:00": "R2",
+        "09:30": "BJ6"
+      }
+    },
+    {
+      "id": 57,
+      "name": "Nahuel Domínguez",
+      "stats": {
+        "08:00": "BJ12",
+        "08:30": "ST02",
+        "09:00": "BJ14",
+        "09:30": "ST03"
+      }
+    },
+    {
+      "id": 58,
+      "name": "Selena Cordero",
+      "stats": {
+        "08:00": "R1",
+        "08:30": "ST12",
+        "09:00": "ST06",
+        "09:30": "BJ4"
+      }
+    },
+    {
+      "id": 59,
+      "name": "Erik Lucero",
+      "stats": {
+        "08:00": "BJ15",
+        "08:30": "ST12",
+        "09:00": "ST01",
+        "09:30": "ST11"
+      }
+    },
+    {
+      "id": 60,
+      "name": "Bárbara Pereyra",
+      "stats": {
+        "08:00": "BJ7",
+        "08:30": "AB",
+        "09:00": "BJ1",
+        "09:30": "BJ10"
+      }
+    },
+    {
+      "id": 61,
+      "name": "Matías Zúñiga",
+      "stats": {
+        "08:00": "BJ4",
+        "08:30": "ST04",
+        "09:00": "ST06",
+        "09:30": "BJ3"
+      }
+    },
+    {
+      "id": 62,
+      "name": "Kiara Esquivel",
+      "stats": {
+        "08:00": "BJ8",
+        "08:30": "ST03",
+        "09:00": "ST01",
+        "09:30": "BJ4"
+      }
+    },
+    {
+      "id": 63,
+      "name": "Facundo Montenegro",
+      "stats": {
+        "08:00": "BJ14",
+        "08:30": "ST05",
+        "09:00": "ST11",
+        "09:30": "BJ12"
+      }
+    },
+    {
+      "id": 64,
+      "name": "Dana Fuentes",
+      "stats": {
+        "08:00": "BJ12",
+        "08:30": "BJ5",
+        "09:00": "AB",
+        "09:30": "BJ7"
+      }
+    },
+    {
+      "id": 65,
+      "name": "Julián Varela",
+      "stats": {
+        "08:00": "R1",
+        "08:30": "RRR",
+        "09:00": "R3",
+        "09:30": "ST12"
+      }
+    },
+    {
+      "id": 66,
+      "name": "Candelaria Bravo",
+      "stats": {
+        "08:00": "BJ11",
+        "08:30": "ST12",
+        "09:00": "ST06",
+        "09:30": "BJ10"
+      }
+    },
+    {
+      "id": 67,
+      "name": "Tobías Ocampo",
+      "stats": {
+        "08:00": "RRR",
+        "08:30": "R1",
+        "09:00": "ST07",
+        "09:30": "ST10"
+      }
+    },
+    {
+      "id": 68,
+      "name": "Maite Duarte",
+      "stats": {
+        "08:00": "BJ9",
+        "08:30": "BJ10",
+        "09:00": "BJ5",
+        "09:30": "ST01"
+      }
+    },
+    {
+      "id": 69,
+      "name": "Jerónimo Pino",
+      "stats": {
+        "08:00": "R1",
+        "08:30": "RRR",
+        "09:00": "ST08",
+        "09:30": "BJ13"
+      }
+    },
+    {
+      "id": 70,
+      "name": "Violeta Tapia",
+      "stats": {
+        "08:00": "ST03",
+        "08:30": "BJ8",
+        "09:00": "BJ4",
+        "09:30": "R1"
+      }
+    }
+  ],
+  "teamData": [
+    {
+      "name": "-",
+      "position": "-"
+    }
+  ],
+  "timeStats": [
+    {
+      "id": "-",
+      "value": "-"
+    }
+  ],
+  "timeSlots": [
+    "08:00",
+    "08:30",
+    "09:00",
+    "09:30"
+  ],
+  "feedbackTitle": "Feedback",
+  "teamTitle": "-",
+  "timeStatsTitle": "-",
+  "footerLeft": "En BJE el GP ya puede mezclar en vivo su propio zapato",
+  "footerRight": "Bienvenido nuevo BL de 20 minutos 🎉✨",
+  "timeLabel": "Hora",
+  "feedbackSections": [
+    {
+      "id": "teamManager",
+      "label": "Team / Shift Manager",
+      "score": "1:1",
+      "items": [
+        "-",
+        "-",
+        "-"
+      ]
+    },
+    {
+      "id": "shiftLeaders",
+      "label": "Shift Leaders",
+      "score": "1:1",
+      "items": [
+        "-",
+        "-",
+        "-"
+      ]
+    },
+    {
+      "id": "trainers",
+      "label": "Trainers",
+      "score": "1:1",
+      "items": [
+        "-",
+        "-",
+        "-"
+      ]
+    }
+  ],
+  "colorConfigs": [
+    {
+      "code": "BJ",
+      "description": "BJ",
+      "bgColor": "#19c50d",
+      "textColor": "#ffffff"
+    },
+    {
+      "code": "AB",
+      "description": "AB",
+      "bgColor": "#ff00d0",
+      "textColor": "#ffffff"
+    },
+    {
+      "code": "ST",
+      "description": "ST",
+      "bgColor": "#0011ff",
+      "textColor": "#ffffff"
+    },
+    {
+      "code": "R",
+      "description": "R",
+      "bgColor": "#ff0000",
+      "textColor": "#ffffff"
+    },
+    {
+      "code": "TP",
+      "description": "TP",
+      "bgColor": "#d2f71d",
+      "textColor": "#000000"
+    },
+    {
+      "code": "B1",
+      "description": "B1",
+      "bgColor": "#fff700",
+      "textColor": "#000000"
+    }
+  ],
+  "divideText": "Donde",
+  "name": "Mateo Santillan",
+  "position": "-",
+  "value": "-",
+  "id": "-"
+}
