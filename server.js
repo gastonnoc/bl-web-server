@@ -16,10 +16,10 @@ const server = http.createServer(app);
 // Initialize Socket.io
 const io = new Server(server, {
   cors: {
-    origin: "*", // In production, restrict this to your domain
+    origin: "https://logismart-blweb.vercel.app", 
     methods: ["GET", "POST"]
   }
-});
+}); 
 
 // Data storage (for simplicity, we'll use a file)
 const DATA_FILE = path.join(__dirname, 'data.json');
@@ -53,7 +53,7 @@ if (!fs.existsSync(DATA_FILE)) {
       { code: "O", description: "Other", bgColor: "#FED7AA", textColor: "#9A3412" },
       { code: "-", description: "Empty/Default", bgColor: "#F3F4F6", textColor: "#374151" }
     ],
-    divideText: "Divide"
+    divideText: "Donde"
   };
   fs.writeFileSync(DATA_FILE, JSON.stringify(defaultData, null, 2));
 }
